@@ -1,0 +1,6 @@
+/Users/recepcan/RiderProjects/SignalRChat/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.csprojAssemblyReference.cache
+/Users/recepcan/RiderProjects/SignalRChat/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.csproj.CoreCompileInputs.cache
+/Users/recepcan/RiderProjects/SignalRChat/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.RazorAssemblyInfo.cache
+/Users/recepcan/RiderProjects/SignalRChat/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.RazorAssemblyInfo.cs
+/Users/recepcan/RiderProjects/SignalRChat/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.AssemblyInfoInputs.cache
+/Users/recepcan/RiderProjects/SignalRChat/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.AssemblyInfo.cs
